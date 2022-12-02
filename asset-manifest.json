@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/ummg-selection/static/js/main.1708403c.js",
+    "static/media/school-whole.png": "/ummg-selection/static/media/school-whole.956f77f01bfe2cedb144.png",
+    "static/media/nai-nai.png": "/ummg-selection/static/media/nai-nai.9e27832f48ce3453f16a.png",
+    "static/media/school.png": "/ummg-selection/static/media/school.41ea57934b6c55f75ecb.png",
+    "static/media/princess.png": "/ummg-selection/static/media/princess.8b0800ebae5a3ce3c609.png",
+    "static/media/prince.png": "/ummg-selection/static/media/prince.0773fb5016810d12bd7f.png",
+    "static/media/love-1.png": "/ummg-selection/static/media/love-1.fdddaaf8beb1e8ac51fc.png",
+    "static/media/tuxedo.png": "/ummg-selection/static/media/tuxedo.1f6db67fa99184297854.png",
+    "static/media/dress.png": "/ummg-selection/static/media/dress.a19988fbd5909ce9e37d.png",
+    "static/media/king.png": "/ummg-selection/static/media/king.0ad47fcb6719d77e1a3c.png",
+    "static/media/school-1.png": "/ummg-selection/static/media/school-1.b95a2c1d85e034bddac3.png",
+    "static/media/love-2.png": "/ummg-selection/static/media/love-2.8cfcfc29de54cdd8669a.png",
+    "static/media/popularity.png": "/ummg-selection/static/media/popularity.e15aefc4be50a727216e.png",
+    "index.html": "/ummg-selection/index.html",
+    "main.1708403c.js.map": "/ummg-selection/static/js/main.1708403c.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.1708403c.js"
+  ]
+}
